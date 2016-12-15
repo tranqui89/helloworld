@@ -1,2 +1,2 @@
-print "Hello World"
-print "I'm a new python member"
+print ('Hello World');
+print ('I'm a new python member');
